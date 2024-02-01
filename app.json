@@ -24,6 +24,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Owner Username without @",
+      "value": "II_BAD_BBY_II",
       "required": true
     },
     "OPENAI_KEY": {
@@ -36,14 +37,17 @@
     },
     "BOT_NAME": {
       "description": "Simple Bot-name. Do not use Modified Text..",
+      "value": "🕊️⃝‌ٖٖٖٖ ‌ٖٖٖٖٖ𝐁α∂ ❤️ᥫ᭡፝֟፝֟",
       "required": true
     },
     "SUPPORT_GRP": {
       "description": "Your Support Group without @",
+      "value": "II_CHAT_HUB_II",
       "required": true
     },
     "STKR": {
       "description": "Sticker for start", "required": true
+      "value": "CAACAgUAAxkBAAJcMGW7qaGTIPfrAAG20xGQ7_JWZoHBNAACRQ0AAhmMAVVD3RNN4XiZkR4E",
     },
     "START_IMG": {
       "description": "Start Image For Bot.",
@@ -51,13 +55,16 @@
     },
     "UPDATE_CHNL": {
       "description": "Your Updates Channel without @",
+      "value": "ll_THE_BAD_BOT_ll",
       "required": true
     },
     "API_ID": { "description": "telegram api id here",
+      "value": "29908998",
       "required": true
     },
     "API_HASH": {
       "description": "telegram api hash here",
+      "value": "3a0d920a6370b97671ea838d92dc559c",
       "required": true
     }
   },
